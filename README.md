@@ -1,1 +1,1 @@
-Testing commit
+Creating scripts in bash
