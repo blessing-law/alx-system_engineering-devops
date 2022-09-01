@@ -1,2 +1,2 @@
 #!/bin/bash
-find /path/to/directory -type d -exec chmod 775 {} \
+chomd -R /. 755
