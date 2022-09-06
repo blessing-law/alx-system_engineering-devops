@@ -1,2 +1,2 @@
 #!/bin/bash
-find $PATH -depth | wc -l
+ls $PATH | wc -l
